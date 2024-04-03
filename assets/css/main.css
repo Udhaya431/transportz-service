@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.nav-list {
+    @apply  text-lg font-medium mx-3 hover:text-[#82ccdd]
+}
